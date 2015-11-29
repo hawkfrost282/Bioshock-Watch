@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "littlewiggains@yahoo.com",
+    "longName": "Bioshock Analogue",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Andes.ttf",
+                "name": "FONT_ANDES_24",
+                "type": "font"
+            },
+            {
+                "file": "images/Bioshock Round Logo - Small Edited.png",
+                "name": "IMAGE_BIOSHOCK_ROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Bioshock Analogue",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1594791a-6711-45ca-ab77-57c3d57d6576",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
